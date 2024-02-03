@@ -17,6 +17,7 @@
 		<parameter name="driver.capabilities.app" value="src/main/resources/libs"></parameter> -->
 		<groups>
 			<run>
+			
 				<include name="@BrowserOpen" />
 			</run>
 		</groups>
